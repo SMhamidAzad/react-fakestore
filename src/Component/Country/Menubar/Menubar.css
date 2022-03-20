@@ -1,0 +1,11 @@
+.menu li{
+    list-style: none;
+    margin-right: 25px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
